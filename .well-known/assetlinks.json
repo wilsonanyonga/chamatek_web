@@ -2,7 +2,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "chamatek",
-      "package_name": "com.example.chamatek",
+      "package_name": "com.example.chama",
       "sha256_cert_fingerprints":
       ["1F:7E:76:FC:6E:44:7B:47:AA:01:97:6A:31:B5:07:F2:8C:A1:80:4E:4F:3E:76:01:4A:CE:C3:BA:35:4D:56:72"]
     }
